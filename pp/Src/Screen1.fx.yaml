@@ -12,3 +12,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
+    "'888' As label":
+        Text: ="文本"
+        X: =697
+        Y: =186
+        ZIndex: =3
+
