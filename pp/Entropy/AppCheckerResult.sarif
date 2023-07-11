@@ -42,6 +42,18 @@
               "message": {
                 "text": "运行规则 app-InefficientDelayLoading 时出错。"
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 1
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "运行规则 app-InefficientDelayLoading 时出错。"
+              }
             }
           ]
         }

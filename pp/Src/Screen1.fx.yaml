@@ -1,2 +1,8 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Text: ="文666"
+        X: =209
+        Y: =230
+        ZIndex: =1
+
